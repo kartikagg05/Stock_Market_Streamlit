@@ -10,7 +10,7 @@ from plotly import graph_objs as go
 #hello mayur sir
 START = "2015-01-01"
 TODAY = date.today().strftime("%Y-%m-%d")
-
+#hello aniket sir
 st.title('Stock Forecast App')
 
 # ARRAY OF THE STOCK
